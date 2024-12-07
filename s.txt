@@ -1,5 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* snthosh */
+=======
+/* swetha commits */
+
+BIET
+>>>>>>> swe
 
 Hiii
 =======
